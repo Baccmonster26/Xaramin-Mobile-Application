@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JBA": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
